@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404385821717",
+    "firebase_url": "https://empowerapp-576ef.firebaseio.com",
+    "project_id": "empowerapp-576ef",
+    "storage_bucket": "empowerapp-576ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404385821717:android:62ef664dc4123913",
+        "android_client_info": {
+          "package_name": "seedcommando.com.empowerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404385821717-cg9nmefhfibcuhk24mgdvg6uki4iffha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUi4GSeGAtRfgjORrl4ZJAOR4a78JCZQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
